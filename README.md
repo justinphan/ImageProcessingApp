@@ -1,0 +1,3 @@
+# ImageProcessingApp
+A Window App writton on C#/.Net that can manipulate pictures: convert to gray, resize, increase contrast, ....
+![Screenshot](Picture1.png)
